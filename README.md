@@ -1,3 +1,6 @@
+<div align="center">
+  
+![fatecsjc_400x192](https://user-images.githubusercontent.com/71477357/161321048-dc637b2e-0314-4e07-b2f9-8cda9f653356.png)
 <h1 align="center"> :computer: Bertoti </h1>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=flat"/>
