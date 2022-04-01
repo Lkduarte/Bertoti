@@ -17,6 +17,6 @@
 ## Disciplinas
 
 ### Engenharia de Software I
-Você pode visualizar todas as atividades referentes a Disciplina de [Engenharia de Software I]()  aqui.
+Você pode visualizar todas as atividades referentes a Disciplina de [Engenharia de Software I](https://github.com/Lkduarte/Bertoti/tree/main/Engenharia%20de%20Software%20I)  aqui.
 </p>
 <img alt="cat typing" src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif"/>
