@@ -18,7 +18,7 @@ Esses requisitos são divididos em duas categorias:
 <div align="center">
 <img alt="requisitos funcionais" src="https://user-images.githubusercontent.com/71477357/161325984-2eb0877e-e0a9-4315-b9ff-93cbf0b696dc.png" width="600" height="500/">
   <br>
-  <br> <p align="justify"> Dentro da engenharia de uma empresa de software podemos destacar o requisito funcional , onde há a materialização de uma necessidade ou solicitação realizada por um software.<br>
+  <br> <p align="justify"> Dentro da engenharia de uma empresa de software podemos destacar o requisito funcional, onde há a materialização de uma necessidade ou solicitação realizada por um software.<br>
 <br>Os requisitos funcionais são de extrema importância no desenvolvimento de aplicativos, pois, sem eles não há funcionalidades nos sistemas. Seus modelos devem ser construídos em um nível de entendimento claro e objetivo, além de um código fonte totalmente aplicável.<br>
  </p>
  </div>
