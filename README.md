@@ -24,4 +24,4 @@ Você pode visualizar todas as atividades referentes a Disciplina de [Engenharia
 ### IHC - Interação Humano Computador
 Você pode visualizar todas as atividades referentes a Disciplina de [IHC - Interação Humano Computador](https://github.com/Lkduarte/Bertoti/tree/main/IHC%20-%20Intera%C3%A7%C3%A3o%20Humano%20Computador)  aqui.
 
-<img alt="Dog Tech" src="https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2014/08/tumblr_n06l2mXy1T1scjbypo1_500.gif"/>
+<img alt="cat typing" src="https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2014/08/tumblr_n06l2mXy1T1scjbypo1_500.gif?resize=450%2C246&ssl=1"/>
