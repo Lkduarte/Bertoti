@@ -9,9 +9,14 @@
 <img src="https://img.shields.io/badge/ÚLTIMA%20MODIFICAÇÃO-AGOSTO%20DE%202022-brightgreen&style=flat"/>
 
 <p align ="center">
-    <a href="#teste"> Teste </a> | 
+    <a href="#sobre"> Sobre </a> | 
     <a href="#teste2"> Teste2 </a> | 
     <a href="#teste3"> Teste3 </a> | 
   
 </div>
 
+<span id = "sobre">
+
+## Sobre 
+
+Atividade para realizar uma avaliação Heurística com base no [WCAG](https://www.w3.org/WAI/WCAG21/quickref/), localizando os erros e acertos encontrados a partir da aplicação dos princípios de usabilidade, acessibilidade e atratividade dos sites, destacando a Guideline avaliada e o que está certo ou errado.
