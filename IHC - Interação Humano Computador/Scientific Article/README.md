@@ -19,6 +19,6 @@ Atividade proposta e apresentada em aula no início do semestre, visando a reda�
   
 <div align="left">
   
-Você pode visualizar o artigo em PDF aqui: [Microchips implantados em seres humanos](https://github.com/Lkduarte/Bertoti/tree/main/Engenharia%20de%20Software%20I).
+Você pode visualizar o artigo em PDF aqui: [Microchips implantados em seres humanos](https://github.com/Lkduarte/Bertoti/blob/main/IHC%20-%20Intera%C3%A7%C3%A3o%20Humano%20Computador/Scientific%20Article/Artigo%20-%20Microchips%20implantados%20em%20seres%20humanos.pdf).
   
 </div>
