@@ -69,3 +69,11 @@ Atividade para realizar uma avaliação Heurística com base no [WCAG](https://w
 > <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D4.png">
 >
 > Página que não tem adaptação alguma para outros dispostivos se não o desktop.  
+
+
+<summary><b>2. Erro de Visualização</b></summary>
+
+>
+> <img heigh="800px" width="1000px" src ="https://user-images.githubusercontent.com/71477357/204783971-2d4bd0c5-f475-43e5-92b1-7ae80fb6abb1.png">
+>
+>pode causar confusão ao usuário por não facilitar a identificação de sua localização no site nem as ações permitidas claramente; não é minimalista, pelo contrário, utiliza exageradamente de informações e elementos na tela, causando cansaço mental ao interagir com o site e não estabelecendo harmonia visual; não há a presença de padrões, não há familiaridade do usuário com as funcionalidades disponíveis
