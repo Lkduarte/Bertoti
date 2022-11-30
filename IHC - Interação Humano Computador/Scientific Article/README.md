@@ -5,7 +5,7 @@
 <h1 align="center"> :computer: Artigo Científico: Microchips implantados em seres humanos </h1>
 <p align="center">
   
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=flat"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=flat"/>
 <img src="https://img.shields.io/badge/ÚLTIMA%20MODIFICAÇÃO-NOVEMBRO%20DE%202022-brightgreen&style=flat"/>
 
 
