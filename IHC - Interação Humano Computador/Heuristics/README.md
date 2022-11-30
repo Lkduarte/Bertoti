@@ -236,4 +236,13 @@ O site da Apple é um bom exemplo de estética e design minimalista, ele é bem 
 >
 >pode causar confusão ao usuário por não facilitar a identificação de sua localização no site nem as ações permitidas claramente; não é minimalista, pelo contrário, utiliza exageradamente de informações e elementos na tela, causando cansaço mental ao interagir com o site e não estabelecendo harmonia visual; não há a presença de padrões, não há familiaridade do usuário com as funcionalidades disponíveis
 </details>
+  
+  
+  
+  
+### :man: Autor
+
+Feito por Lucas Nunes Duarte Do Nascimento :wave::wave: Entre em contato!🚀
+
+[LinkedIn](https://www.linkedin.com/in/lucas-nunes-nascimento/)
 
