@@ -38,17 +38,15 @@ Atividade para realizar uma avaliação Heurística com base no [WCAG](https://w
     <br>
     O sistema deve permitir que o usuário tenha liberdade para realizar ações que ele deseja, mas em caso de acionar alguma ação por engano, deve haver um modo de desfazer (sair de uma janela indesejada ou retornar a um ponto anterior). Um exemplo é a ação de “desfazer” do Google quando a ação é exclusão de um e-mail.
 
-    <div align="center">
+<div align="center">
+    <img alt="174390768-69c3d030-04cb-4148-a292-b4146723795d" src="https://user-images.githubusercontent.com/71477357/204778639-9836f10b-d964-4707-a9d1-8ef331aba57d.png"
+<div>
 
-![174390768-69c3d030-04cb-4148-a292-b4146723795d](https://user-images.githubusercontent.com/71477357/204778639-9836f10b-d964-4707-a9d1-8ef331aba57d.png)
-
-    <div>
-    
    <summary><b>5. Prevenções de erros</b></summary>
     <br>
     Melhor que deixar o usuário resolver um erro é evitar que ele cometa erros, um exemplo disso é a busca do Google, que enquanto estamos digitando na barra de pesquisa ele apresenta algumas sugestões mas também corrigindo erros de ortografia caso tenhamos pesquisado algo errado.
 
-  <div align="center">
+<div align="center">
 
 |                                                                 Realizando uma busca no Google                                                                 |                                                                                         Resultado da busca com erro de ortográfica                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
