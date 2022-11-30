@@ -32,17 +32,17 @@ Atividade para realizar uma avaliação Heurística com base no [WCAG](https://w
 <br>
  O sistema deve mostrar o que está acontecendo em tempo real pro usuário, um exemplo disso é a interface das playlists Youtube, que ficam ao lado direito do vídeo, mostrando qual vídeo da lista estamos assistindo, qual os próximos e quais já foram assistidos
 
-<div align="center">
+
 ![visibilidade](https://user-images.githubusercontent.com/71477357/204688242-2ac2925a-d755-4494-8715-6424d343bb46.JPG)
-</div>
+
 
 <summary><b>3. Controle e liberdade para o usuário</b></summary>
     <br>
     O sistema deve permitir que o usuário tenha liberdade para realizar ações que ele deseja, mas em caso de acionar alguma ação por engano, deve haver um modo de desfazer (sair de uma janela indesejada ou retornar a um ponto anterior). Um exemplo é a ação de “desfazer” do Google quando a ação é exclusão de um e-mail.
 
-    <div align="center">
-    <img alt="Captura da tela do aviso que permite o usuário desfazer a esclusão de um email no Gmail" src="https://user-images.githubusercontent.com/69374340/174390768-69c3d030-04cb-4148-a292-b4146723795d.png">
-  </div>
+
+    ![](https://user-images.githubusercontent.com/69374340/174390768-69c3d030-04cb-4148-a292-b4146723795d.png)
+
 
    <summary><b>5. Prevenções de erros</b></summary>
     <br>
