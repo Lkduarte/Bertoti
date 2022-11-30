@@ -42,9 +42,11 @@ Atividade para realizar uma avaliação Heurística com base no [WCAG](https://w
     <img alt="174390768-69c3d030-04cb-4148-a292-b4146723795d" src="https://user-images.githubusercontent.com/71477357/204778639-9836f10b-d964-4707-a9d1-8ef331aba57d.png"
 <div>
 
-   <summary><b>5. Prevenções de erros</b></summary>
+
+<summary><b>5. Prevenções de erros</b></summary>
     <br>
     Melhor que deixar o usuário resolver um erro é evitar que ele cometa erros, um exemplo disso é a busca do Google, que enquanto estamos digitando na barra de pesquisa ele apresenta algumas sugestões mas também corrigindo erros de ortografia caso tenhamos pesquisado algo errado.
+
 
 <div align="center">
 
@@ -53,3 +55,21 @@ Atividade para realizar uma avaliação Heurística com base no [WCAG](https://w
 | ![Interação](https://user-images.githubusercontent.com/71477357/204780210-6749f688-f32d-4c8e-9c7c-3c9a0c4db1fc.PNG) | ![Interação2](https://user-images.githubusercontent.com/71477357/204780220-e2bfe23a-a507-4bbf-bf1d-2885803f84aa.PNG) |
 
 </div>
+
+
+## Exemplos de erros
+
+
+<summary><b>1. Erro de Responsividade</b></summary>
+#### Erro:    
+    
+> Desktop: 
+>
+> <img heigh="800px" width="1000px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D3.png">
+>
+>
+> Mobile: 
+>
+> <img heigh="400px" width="400px" src ="https://github.com/drisabelles/bertoti/blob/main/IHC/images/WCAG-D4.png">
+>
+> Página que não tem adaptação alguma para outros dispostivos se não o desktop.  
