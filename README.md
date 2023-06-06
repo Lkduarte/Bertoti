@@ -12,6 +12,8 @@
 
 <p align="float">Repositório criado para armazenar todas as atividades realizadas nas disciplinas ministradas na FATEC São José dos Campos pelo professor Giuliano Araujo Bertoti.<p>
 
+<img alt="Monkey typing" src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" width="400" height="266"/>
+
 </div>
 
 ## Disciplinas
@@ -19,14 +21,10 @@
 ### Engenharia de Software I
 Você pode visualizar todas as atividades referentes a Disciplina de [Engenharia de Software I](https://github.com/Lkduarte/Bertoti/tree/main/Engenharia%20de%20Software%20I)  aqui.
 </p>
-<img alt="Monkey typing" src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" width="400" height="266"/>
 
 ### Engenharia de Software III
 Você pode visualizar todas as atividades referentes a Disciplina de [Engenharia de Software III](https://github.com/Lkduarte/Bertoti/tree/main/EngenhariadeSoftwareIII)  aqui.
 </p>
-<img alt="Cat" src="https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif" width="400" height="266"/>
 
 ### IHC - Interação Humano Computador
 Você pode visualizar todas as atividades referentes a Disciplina de [IHC - Interação Humano Computador](https://github.com/Lkduarte/Bertoti/tree/main/IHC%20-%20Intera%C3%A7%C3%A3o%20Humano%20Computador)  aqui.
-
-<img alt="Dogg" src="https://i0.wp.com/www.portaldodog.com.br/cachorros/wp-content/uploads/2014/08/tumblr_n06l2mXy1T1scjbypo1_500.gif?resize=450%2C246&ssl=1" width="400" height="266"/>
